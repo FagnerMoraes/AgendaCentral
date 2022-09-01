@@ -1,0 +1,17 @@
+C:\www\net6projects\AgendaCentral\src\AgendaCentral.Infra.Data\bin\Debug\net6.0\AgendaCentral.Infra.Data.deps.json
+C:\www\net6projects\AgendaCentral\src\AgendaCentral.Infra.Data\bin\Debug\net6.0\AgendaCentral.Infra.Data.runtimeconfig.json
+C:\www\net6projects\AgendaCentral\src\AgendaCentral.Infra.Data\bin\Debug\net6.0\AgendaCentral.Infra.Data.dll
+C:\www\net6projects\AgendaCentral\src\AgendaCentral.Infra.Data\bin\Debug\net6.0\AgendaCentral.Infra.Data.pdb
+C:\www\net6projects\AgendaCentral\src\AgendaCentral.Infra.Data\bin\Debug\net6.0\AgendaCentral.Domain.dll
+C:\www\net6projects\AgendaCentral\src\AgendaCentral.Infra.Data\bin\Debug\net6.0\AgendaCentral.Domain.pdb
+C:\www\net6projects\AgendaCentral\src\AgendaCentral.Infra.Data\obj\Debug\net6.0\AgendaCentral.Infra.Data.csproj.AssemblyReference.cache
+C:\www\net6projects\AgendaCentral\src\AgendaCentral.Infra.Data\obj\Debug\net6.0\AgendaCentral.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\www\net6projects\AgendaCentral\src\AgendaCentral.Infra.Data\obj\Debug\net6.0\AgendaCentral.Infra.Data.AssemblyInfoInputs.cache
+C:\www\net6projects\AgendaCentral\src\AgendaCentral.Infra.Data\obj\Debug\net6.0\AgendaCentral.Infra.Data.AssemblyInfo.cs
+C:\www\net6projects\AgendaCentral\src\AgendaCentral.Infra.Data\obj\Debug\net6.0\AgendaCentral.Infra.Data.csproj.CoreCompileInputs.cache
+C:\www\net6projects\AgendaCentral\src\AgendaCentral.Infra.Data\obj\Debug\net6.0\AgendaCentral.Infra.Data.csproj.CopyComplete
+C:\www\net6projects\AgendaCentral\src\AgendaCentral.Infra.Data\obj\Debug\net6.0\AgendaCentral.Infra.Data.dll
+C:\www\net6projects\AgendaCentral\src\AgendaCentral.Infra.Data\obj\Debug\net6.0\refint\AgendaCentral.Infra.Data.dll
+C:\www\net6projects\AgendaCentral\src\AgendaCentral.Infra.Data\obj\Debug\net6.0\AgendaCentral.Infra.Data.pdb
+C:\www\net6projects\AgendaCentral\src\AgendaCentral.Infra.Data\obj\Debug\net6.0\AgendaCentral.Infra.Data.genruntimeconfig.cache
+C:\www\net6projects\AgendaCentral\src\AgendaCentral.Infra.Data\obj\Debug\net6.0\ref\AgendaCentral.Infra.Data.dll

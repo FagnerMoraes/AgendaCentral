@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3O4ZITyqrkijSEb2V4rWW2s88rXLHkV4bS//AaubowK8Z5MpUr9RH+7145VdidybR7wZRvH3LH9QshWPcBQ0gA==",
+  "dgSpecHash": "mAPYddRPDOwj8QtyYQkwXKpiotc8R3oiFCgoJrwzh/tP6AFEPlgOgdw1maaF9sJICPNA4pvcgvH0M3neLOrfUg==",
   "success": true,
-  "projectFilePath": "C:\\www\\AgendaCentral\\src\\AgendaCentral.Domain\\AgendaCentral.Domain.csproj",
+  "projectFilePath": "C:\\www\\net6projects\\AgendaCentral\\src\\AgendaCentral.Domain\\AgendaCentral.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
