@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\www\\AgendaCentral\\test\\AgendaCentral.Infra.Data.Test\\AgendaCentral.Infra.Data.Test.csproj": {}
+    "C:\\www\\AgendaCentral\\test\\AgendaCentral.Infra.Data.Test\\AgendaCentral.Infra.Data.Test.csproj": {}
   },
   "projects": {
-    "c:\\www\\AgendaCentral\\test\\AgendaCentral.Infra.Data.Test\\AgendaCentral.Infra.Data.Test.csproj": {
+    "C:\\www\\AgendaCentral\\test\\AgendaCentral.Infra.Data.Test\\AgendaCentral.Infra.Data.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\www\\AgendaCentral\\test\\AgendaCentral.Infra.Data.Test\\AgendaCentral.Infra.Data.Test.csproj",
+        "projectUniqueName": "C:\\www\\AgendaCentral\\test\\AgendaCentral.Infra.Data.Test\\AgendaCentral.Infra.Data.Test.csproj",
         "projectName": "AgendaCentral.Infra.Data.Test",
-        "projectPath": "c:\\www\\AgendaCentral\\test\\AgendaCentral.Infra.Data.Test\\AgendaCentral.Infra.Data.Test.csproj",
+        "projectPath": "C:\\www\\AgendaCentral\\test\\AgendaCentral.Infra.Data.Test\\AgendaCentral.Infra.Data.Test.csproj",
         "packagesPath": "C:\\Users\\Ana Carollyne Moraes\\.nuget\\packages\\",
-        "outputPath": "c:\\www\\AgendaCentral\\test\\AgendaCentral.Infra.Data.Test\\obj\\",
+        "outputPath": "C:\\www\\AgendaCentral\\test\\AgendaCentral.Infra.Data.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ana Carollyne Moraes\\AppData\\Roaming\\NuGet\\NuGet.Config"

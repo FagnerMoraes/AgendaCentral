@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N/3vBalSLhfWM3IcsWhwSDlF11wTnX1gfzl3cD5iix+PpFE7UQDaIYZPRIpjBGEw9n4/MdTVTMzDrx8pWqJTMg==",
+  "dgSpecHash": "b2kdwlF9DQCz5zbNkF/uKx5liNjo3OUQqoPIuBv7zyVBSKcTmGyOhyE8+Y41PXh0Z9HQxmgulOovuigpXo3VxA==",
   "success": true,
-  "projectFilePath": "c:\\www\\AgendaCentral\\test\\AgendaCentral.Infra.Data.Test\\AgendaCentral.Infra.Data.Test.csproj",
+  "projectFilePath": "C:\\www\\AgendaCentral\\test\\AgendaCentral.Infra.Data.Test\\AgendaCentral.Infra.Data.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ana Carollyne Moraes\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Ana Carollyne Moraes\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

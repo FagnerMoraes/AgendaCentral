@@ -1849,11 +1849,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\www\\AgendaCentral\\src\\AgendaCentral.Infra.Data\\AgendaCentral.Infra.Data.csproj",
+      "projectUniqueName": "C:\\www\\AgendaCentral\\src\\AgendaCentral.Infra.Data\\AgendaCentral.Infra.Data.csproj",
       "projectName": "AgendaCentral.Infra.Data",
-      "projectPath": "c:\\www\\AgendaCentral\\src\\AgendaCentral.Infra.Data\\AgendaCentral.Infra.Data.csproj",
+      "projectPath": "C:\\www\\AgendaCentral\\src\\AgendaCentral.Infra.Data\\AgendaCentral.Infra.Data.csproj",
       "packagesPath": "C:\\Users\\Ana Carollyne Moraes\\.nuget\\packages\\",
-      "outputPath": "c:\\www\\AgendaCentral\\src\\AgendaCentral.Infra.Data\\obj\\",
+      "outputPath": "C:\\www\\AgendaCentral\\src\\AgendaCentral.Infra.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ana Carollyne Moraes\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1868,8 +1868,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "c:\\www\\AgendaCentral\\src\\AgendaCentral.Domain\\AgendaCentral.Domain.csproj": {
-              "projectPath": "c:\\www\\AgendaCentral\\src\\AgendaCentral.Domain\\AgendaCentral.Domain.csproj"
+            "C:\\www\\AgendaCentral\\src\\AgendaCentral.Domain\\AgendaCentral.Domain.csproj": {
+              "projectPath": "C:\\www\\AgendaCentral\\src\\AgendaCentral.Domain\\AgendaCentral.Domain.csproj"
             }
           }
         }

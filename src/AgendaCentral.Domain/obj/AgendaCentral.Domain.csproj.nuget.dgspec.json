@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\www\\AgendaCentral\\src\\AgendaCentral.Domain\\AgendaCentral.Domain.csproj": {}
+    "C:\\www\\AgendaCentral\\src\\AgendaCentral.Domain\\AgendaCentral.Domain.csproj": {}
   },
   "projects": {
-    "c:\\www\\AgendaCentral\\src\\AgendaCentral.Domain\\AgendaCentral.Domain.csproj": {
+    "C:\\www\\AgendaCentral\\src\\AgendaCentral.Domain\\AgendaCentral.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\www\\AgendaCentral\\src\\AgendaCentral.Domain\\AgendaCentral.Domain.csproj",
+        "projectUniqueName": "C:\\www\\AgendaCentral\\src\\AgendaCentral.Domain\\AgendaCentral.Domain.csproj",
         "projectName": "AgendaCentral.Domain",
-        "projectPath": "c:\\www\\AgendaCentral\\src\\AgendaCentral.Domain\\AgendaCentral.Domain.csproj",
+        "projectPath": "C:\\www\\AgendaCentral\\src\\AgendaCentral.Domain\\AgendaCentral.Domain.csproj",
         "packagesPath": "C:\\Users\\Ana Carollyne Moraes\\.nuget\\packages\\",
-        "outputPath": "c:\\www\\AgendaCentral\\src\\AgendaCentral.Domain\\obj\\",
+        "outputPath": "C:\\www\\AgendaCentral\\src\\AgendaCentral.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ana Carollyne Moraes\\AppData\\Roaming\\NuGet\\NuGet.Config"

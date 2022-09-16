@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sb8LevSAypnG6PowinVOnX2i3ovdItk0cSUMcvEaq0VQANPXcFpZMRaT3MmQnzuUoc0nVgw28552cvCXBbn/Lg==",
+  "dgSpecHash": "y4cFZhLK8iCn0RE+6ziVKsh2oW6WFqyfSvpQdHXx9bJYEErw2X/MGRR6yRZwCtUYyuZV76dI5CQBoP9Fg/aqGQ==",
   "success": true,
-  "projectFilePath": "c:\\www\\AgendaCentral\\src\\AgendaCentral.API\\AgendaCentral.API.csproj",
+  "projectFilePath": "C:\\www\\AgendaCentral\\src\\AgendaCentral.API\\AgendaCentral.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ana Carollyne Moraes\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Ana Carollyne Moraes\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
