@@ -9,13 +9,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgendaCentral.Domain", "src
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgendaCentral.Infra.Data", "src\AgendaCentral.Infra.Data\AgendaCentral.Infra.Data.csproj", "{90671109-5DAB-436B-84D4-22A159AF561E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgendaCentral.Infra.IoC", "src\AgendaCentral.Infra.IoC\AgendaCentral.Infra.IoC.csproj", "{FC227048-2375-4C7A-BEA6-A9F5E7F19A90}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{47078DF4-40F5-4893-96DA-4307CE2FE657}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgendaCentral.Infra.Data.Test", "test\AgendaCentral.Infra.Data.Test\AgendaCentral.Infra.Data.Test.csproj", "{A581CE63-9CE1-46C7-84EE-5E2B9933AB74}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgendaCentral.Domain.Test", "test\AgendaCentral.Domain.Test\AgendaCentral.Domain.Test.csproj", "{8E33BAB3-1087-41CC-84F8-69667D5D9438}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgendaCentral.API", "src\AgendaCentral.API\AgendaCentral.API.csproj", "{817B057D-15B4-45AA-99DF-55D87C666F9D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -46,12 +46,16 @@ Global
 		{8E33BAB3-1087-41CC-84F8-69667D5D9438}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E33BAB3-1087-41CC-84F8-69667D5D9438}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E33BAB3-1087-41CC-84F8-69667D5D9438}.Release|Any CPU.Build.0 = Release|Any CPU
+		{817B057D-15B4-45AA-99DF-55D87C666F9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{817B057D-15B4-45AA-99DF-55D87C666F9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{817B057D-15B4-45AA-99DF-55D87C666F9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{817B057D-15B4-45AA-99DF-55D87C666F9D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{29A92F26-0FA9-4948-A630-63E863EEE38B} = {E2C730A9-7BE8-463A-AD32-CCFCFA9A788C}
 		{90671109-5DAB-436B-84D4-22A159AF561E} = {E2C730A9-7BE8-463A-AD32-CCFCFA9A788C}
-		{FC227048-2375-4C7A-BEA6-A9F5E7F19A90} = {E2C730A9-7BE8-463A-AD32-CCFCFA9A788C}
 		{A581CE63-9CE1-46C7-84EE-5E2B9933AB74} = {47078DF4-40F5-4893-96DA-4307CE2FE657}
 		{8E33BAB3-1087-41CC-84F8-69667D5D9438} = {47078DF4-40F5-4893-96DA-4307CE2FE657}
+		{817B057D-15B4-45AA-99DF-55D87C666F9D} = {E2C730A9-7BE8-463A-AD32-CCFCFA9A788C}
 	EndGlobalSection
 EndGlobal

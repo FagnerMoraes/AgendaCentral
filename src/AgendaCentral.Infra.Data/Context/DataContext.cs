@@ -11,13 +11,14 @@ namespace AgendaCentral.Data.EFCore.Context
 {
     public class DataContext : DbContext
     {
+        public DataContext(DbContextOptions options) : base(options) { }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.ApplyConfiguration(new PessoaMap());
         }
 
         public DbSet<Pessoa> Pessoas { get; set; }
-        public DbSet<EnderecoEstruturado> EnderecosEstruturados { get; set; }
+        //public DbSet<EnderecoEstruturado> EnderecosEstruturados { get; set; }
 
     }
 }

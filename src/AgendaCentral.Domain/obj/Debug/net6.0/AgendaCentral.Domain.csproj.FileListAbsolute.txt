@@ -10,3 +10,15 @@ C:\www\net6projects\AgendaCentral\src\AgendaCentral.Domain\obj\Debug\net6.0\Agen
 C:\www\net6projects\AgendaCentral\src\AgendaCentral.Domain\obj\Debug\net6.0\refint\AgendaCentral.Domain.dll
 C:\www\net6projects\AgendaCentral\src\AgendaCentral.Domain\obj\Debug\net6.0\AgendaCentral.Domain.pdb
 C:\www\net6projects\AgendaCentral\src\AgendaCentral.Domain\obj\Debug\net6.0\ref\AgendaCentral.Domain.dll
+C:\www\AgendaCentral\src\AgendaCentral.Domain\bin\Debug\net6.0\AgendaCentral.Domain.deps.json
+C:\www\AgendaCentral\src\AgendaCentral.Domain\bin\Debug\net6.0\AgendaCentral.Domain.dll
+C:\www\AgendaCentral\src\AgendaCentral.Domain\bin\Debug\net6.0\AgendaCentral.Domain.pdb
+C:\www\AgendaCentral\src\AgendaCentral.Domain\obj\Debug\net6.0\AgendaCentral.Domain.csproj.AssemblyReference.cache
+C:\www\AgendaCentral\src\AgendaCentral.Domain\obj\Debug\net6.0\AgendaCentral.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\www\AgendaCentral\src\AgendaCentral.Domain\obj\Debug\net6.0\AgendaCentral.Domain.AssemblyInfoInputs.cache
+C:\www\AgendaCentral\src\AgendaCentral.Domain\obj\Debug\net6.0\AgendaCentral.Domain.AssemblyInfo.cs
+C:\www\AgendaCentral\src\AgendaCentral.Domain\obj\Debug\net6.0\AgendaCentral.Domain.csproj.CoreCompileInputs.cache
+C:\www\AgendaCentral\src\AgendaCentral.Domain\obj\Debug\net6.0\AgendaCentral.Domain.dll
+C:\www\AgendaCentral\src\AgendaCentral.Domain\obj\Debug\net6.0\refint\AgendaCentral.Domain.dll
+C:\www\AgendaCentral\src\AgendaCentral.Domain\obj\Debug\net6.0\AgendaCentral.Domain.pdb
+C:\www\AgendaCentral\src\AgendaCentral.Domain\obj\Debug\net6.0\ref\AgendaCentral.Domain.dll

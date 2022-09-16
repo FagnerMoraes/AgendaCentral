@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\www\\net6projects\\AgendaCentral\\src\\AgendaCentral.Infra.Data\\AgendaCentral.Infra.Data.csproj": {}
+    "c:\\www\\AgendaCentral\\src\\AgendaCentral.Infra.Data\\AgendaCentral.Infra.Data.csproj": {}
   },
   "projects": {
-    "C:\\www\\net6projects\\AgendaCentral\\src\\AgendaCentral.Domain\\AgendaCentral.Domain.csproj": {
+    "c:\\www\\AgendaCentral\\src\\AgendaCentral.Domain\\AgendaCentral.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\www\\net6projects\\AgendaCentral\\src\\AgendaCentral.Domain\\AgendaCentral.Domain.csproj",
+        "projectUniqueName": "c:\\www\\AgendaCentral\\src\\AgendaCentral.Domain\\AgendaCentral.Domain.csproj",
         "projectName": "AgendaCentral.Domain",
-        "projectPath": "C:\\www\\net6projects\\AgendaCentral\\src\\AgendaCentral.Domain\\AgendaCentral.Domain.csproj",
-        "packagesPath": "C:\\Users\\adm\\.nuget\\packages\\",
-        "outputPath": "C:\\www\\net6projects\\AgendaCentral\\src\\AgendaCentral.Domain\\obj\\",
+        "projectPath": "c:\\www\\AgendaCentral\\src\\AgendaCentral.Domain\\AgendaCentral.Domain.csproj",
+        "packagesPath": "C:\\Users\\Ana Carollyne Moraes\\.nuget\\packages\\",
+        "outputPath": "c:\\www\\AgendaCentral\\src\\AgendaCentral.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\adm\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Ana Carollyne Moraes\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,8 +43,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -55,36 +52,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\www\\net6projects\\AgendaCentral\\src\\AgendaCentral.Infra.Data\\AgendaCentral.Infra.Data.csproj": {
+    "c:\\www\\AgendaCentral\\src\\AgendaCentral.Infra.Data\\AgendaCentral.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\www\\net6projects\\AgendaCentral\\src\\AgendaCentral.Infra.Data\\AgendaCentral.Infra.Data.csproj",
+        "projectUniqueName": "c:\\www\\AgendaCentral\\src\\AgendaCentral.Infra.Data\\AgendaCentral.Infra.Data.csproj",
         "projectName": "AgendaCentral.Infra.Data",
-        "projectPath": "C:\\www\\net6projects\\AgendaCentral\\src\\AgendaCentral.Infra.Data\\AgendaCentral.Infra.Data.csproj",
-        "packagesPath": "C:\\Users\\adm\\.nuget\\packages\\",
-        "outputPath": "C:\\www\\net6projects\\AgendaCentral\\src\\AgendaCentral.Infra.Data\\obj\\",
+        "projectPath": "c:\\www\\AgendaCentral\\src\\AgendaCentral.Infra.Data\\AgendaCentral.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\Ana Carollyne Moraes\\.nuget\\packages\\",
+        "outputPath": "c:\\www\\AgendaCentral\\src\\AgendaCentral.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\adm\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Ana Carollyne Moraes\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\www\\net6projects\\AgendaCentral\\src\\AgendaCentral.Domain\\AgendaCentral.Domain.csproj": {
-                "projectPath": "C:\\www\\net6projects\\AgendaCentral\\src\\AgendaCentral.Domain\\AgendaCentral.Domain.csproj"
+              "c:\\www\\AgendaCentral\\src\\AgendaCentral.Domain\\AgendaCentral.Domain.csproj": {
+                "projectPath": "c:\\www\\AgendaCentral\\src\\AgendaCentral.Domain\\AgendaCentral.Domain.csproj"
               }
             }
           }
@@ -120,8 +115,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -130,7 +124,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
