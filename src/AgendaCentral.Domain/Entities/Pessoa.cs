@@ -10,6 +10,7 @@ namespace AgendaCentral.Domain.Entities
     public class Pessoa
     {
         public int Id { get; private set; }
+        public int EnderecoId { get; private set; }
         public string Nome { get; private set; }
         public string NomeSocial { get; private set; }
         public DateTime DataNascimento { get; private set; }
@@ -50,18 +51,20 @@ namespace AgendaCentral.Domain.Entities
         }
 
         public Pessoa(int id,
+                      int enderecoId,
                       string nome,
                       string nomeSocial,
                       DateTime dataNascimento,
                       Sexo sexo,
                       string nomeDaMae,
                       string nomeDoPai,
-                     EnderecoEstruturado enderecoEstruturado,
+                      EnderecoEstruturado enderecoEstruturado,
                       string telefone,
                       string cPF,
                       string cartaoSus) : this ()
         {
             Id = id;
+            EnderecoId = enderecoId;
             Nome = nome;
             NomeSocial = nomeSocial;
             DataNascimento = dataNascimento;

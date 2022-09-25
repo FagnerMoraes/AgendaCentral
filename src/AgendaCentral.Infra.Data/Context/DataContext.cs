@@ -30,6 +30,10 @@ namespace AgendaCentral.Data.EFCore.Context
 
 
         public DbSet<Pessoa> Pessoas { get; set; }
+        public DbSet<EnderecoEstruturado> EnderecosEstruturados { get; set; }
+        public DbSet<Logradouro> Logradouros { get; set; }
+        public DbSet<Bairro> Bairros { get; set; }
+
         //public DbSet<EnderecoEstruturado> EnderecosEstruturados { get; set; }
 
     }
