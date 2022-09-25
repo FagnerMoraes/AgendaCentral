@@ -22,3 +22,15 @@ C:\www\AgendaCentral\src\AgendaCentral.Domain\obj\Debug\net6.0\AgendaCentral.Dom
 C:\www\AgendaCentral\src\AgendaCentral.Domain\obj\Debug\net6.0\refint\AgendaCentral.Domain.dll
 C:\www\AgendaCentral\src\AgendaCentral.Domain\obj\Debug\net6.0\AgendaCentral.Domain.pdb
 C:\www\AgendaCentral\src\AgendaCentral.Domain\obj\Debug\net6.0\ref\AgendaCentral.Domain.dll
+C:\dev\WebApiDotNetProjects\AgendaCentral\src\AgendaCentral.Domain\bin\Debug\net6.0\AgendaCentral.Domain.deps.json
+C:\dev\WebApiDotNetProjects\AgendaCentral\src\AgendaCentral.Domain\bin\Debug\net6.0\AgendaCentral.Domain.dll
+C:\dev\WebApiDotNetProjects\AgendaCentral\src\AgendaCentral.Domain\bin\Debug\net6.0\AgendaCentral.Domain.pdb
+C:\dev\WebApiDotNetProjects\AgendaCentral\src\AgendaCentral.Domain\obj\Debug\net6.0\AgendaCentral.Domain.csproj.AssemblyReference.cache
+C:\dev\WebApiDotNetProjects\AgendaCentral\src\AgendaCentral.Domain\obj\Debug\net6.0\AgendaCentral.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\WebApiDotNetProjects\AgendaCentral\src\AgendaCentral.Domain\obj\Debug\net6.0\AgendaCentral.Domain.AssemblyInfoInputs.cache
+C:\dev\WebApiDotNetProjects\AgendaCentral\src\AgendaCentral.Domain\obj\Debug\net6.0\AgendaCentral.Domain.AssemblyInfo.cs
+C:\dev\WebApiDotNetProjects\AgendaCentral\src\AgendaCentral.Domain\obj\Debug\net6.0\AgendaCentral.Domain.csproj.CoreCompileInputs.cache
+C:\dev\WebApiDotNetProjects\AgendaCentral\src\AgendaCentral.Domain\obj\Debug\net6.0\AgendaCentral.Domain.dll
+C:\dev\WebApiDotNetProjects\AgendaCentral\src\AgendaCentral.Domain\obj\Debug\net6.0\refint\AgendaCentral.Domain.dll
+C:\dev\WebApiDotNetProjects\AgendaCentral\src\AgendaCentral.Domain\obj\Debug\net6.0\AgendaCentral.Domain.pdb
+C:\dev\WebApiDotNetProjects\AgendaCentral\src\AgendaCentral.Domain\obj\Debug\net6.0\ref\AgendaCentral.Domain.dll

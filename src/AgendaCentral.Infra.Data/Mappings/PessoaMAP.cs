@@ -28,6 +28,7 @@ namespace AgendaCentral.Data.EFCore.Mappings
             builder.Property(x => x.Sexo).HasConversion(
                 v => v.ToString(), v => (Sexo)Enum.Parse(typeof(Sexo),v));
 
+
         }
     }
 }

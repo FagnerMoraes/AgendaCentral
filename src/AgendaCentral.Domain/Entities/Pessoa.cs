@@ -16,7 +16,9 @@ namespace AgendaCentral.Domain.Entities
         public Sexo Sexo { get; private set; }
         public string NomeDaMae { get; private set; }
         public string NomeDoPai { get; private set; }
-        public EnderecoEstruturado EnderecoEstruturado { get; private set; }        
+
+        public EnderecoEstruturado? EnderecoEstruturado { get; private set; }        
+        
         public string Telefone { get; private set; }
         public string CPF { get; private set; }
         public string CartaoSus { get; private set; }
@@ -27,6 +29,26 @@ namespace AgendaCentral.Domain.Entities
             SituacaoPessoa = Situacao.ativo;
             DataCadastro = DateTime.Now;
         }
+        
+        public Pessoa(int id,
+                      string nome,
+                      DateTime dataNascimento,
+                      Sexo sexo,
+                      string nomeDaMae,                      
+                      string telefone,
+                      string cPF,
+                      string cartaoSus) : this ()
+        {
+            Id = id;
+            Nome = nome;
+            DataNascimento = dataNascimento;
+            Sexo = sexo;
+            NomeDaMae = nomeDaMae;            
+            Telefone = telefone;
+            CPF = cPF;
+            CartaoSus = cartaoSus;
+        }
+
         public Pessoa(int id,
                       string nome,
                       string nomeSocial,
@@ -34,7 +56,7 @@ namespace AgendaCentral.Domain.Entities
                       Sexo sexo,
                       string nomeDaMae,
                       string nomeDoPai,
-                      EnderecoEstruturado enderecoEstruturado,
+                     EnderecoEstruturado enderecoEstruturado,
                       string telefone,
                       string cPF,
                       string cartaoSus) : this ()

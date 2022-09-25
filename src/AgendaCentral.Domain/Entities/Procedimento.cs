@@ -13,7 +13,7 @@ namespace AgendaCentral.Domain.Entities
 
         public GrupoProcedimento GrupoProcedimento { get; private set; }
 
-        public string NomeProcedimento { get; private set; }
+        public string? NomeProcedimento { get; private set; }
 
         public Situacao SituacaoProcedimento { get; private set; }
     }

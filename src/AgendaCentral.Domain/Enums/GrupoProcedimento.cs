@@ -2,6 +2,7 @@
 {
     public enum GrupoProcedimento
     {
-        
+        Consulta = 1,
+        Exame = 2
     }
 }
