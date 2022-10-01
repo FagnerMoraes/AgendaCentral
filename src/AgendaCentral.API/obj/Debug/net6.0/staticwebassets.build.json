@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2UPio1cpF9LX0fdpBviyGAhkYQdg2F2+SZ/vdb4EDsY=",
+  "Source": "AgendaCentral.API",
+  "BasePath": "_content/AgendaCentral.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
