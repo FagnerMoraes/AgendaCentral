@@ -11,7 +11,7 @@ namespace AgendaCentral.Domain.Entities
     {
         public int EspecialidadeId { get; private set; }
 
-        public string NomeEspecialidade { get; private set; }
+        public string? NomeEspecialidade { get; private set; }
 
         public Situacao SituacaoEspecialidade { get; private set; }
 

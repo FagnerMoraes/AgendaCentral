@@ -11,7 +11,7 @@ namespace AgendaCentral.Domain.Entities
     {
         public int UsuarioId { get; private set; }
 
-        public string NameUsuario { get; private set; }
+        public string? NameUsuario { get; private set; }
 
         public Role Role { get; private set; }
     }

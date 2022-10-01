@@ -11,18 +11,18 @@ namespace AgendaCentral.Domain.Entities
     {
         public int Id { get; private set; }
         public int EnderecoId { get; private set; }
-        public string Nome { get; private set; }
-        public string NomeSocial { get; private set; }
+        public string? Nome { get; private set; }
+        public string? NomeSocial { get; private set; }
         public DateTime DataNascimento { get; private set; }
         public Sexo Sexo { get; private set; }
-        public string NomeDaMae { get; private set; }
-        public string NomeDoPai { get; private set; }
+        public string? NomeDaMae { get; private set; }
+        public string? NomeDoPai { get; private set; }
 
         public EnderecoEstruturado? EnderecoEstruturado { get; private set; }        
         
-        public string Telefone { get; private set; }
-        public string CPF { get; private set; }
-        public string CartaoSus { get; private set; }
+        public string? Telefone { get; private set; }
+        public string? CPF { get; private set; }
+        public string? CartaoSus { get; private set; }
         public Situacao SituacaoPessoa { get; private set; }
         public DateTime DataCadastro { get; private set; }
 

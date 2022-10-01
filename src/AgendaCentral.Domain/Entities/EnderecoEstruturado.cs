@@ -13,10 +13,10 @@ namespace AgendaCentral.Domain.Entities
         
 
         public int EnredecoId { get; private set; }
-        public Logradouro Logradouro { get; private set; }
-        public Bairro Bairro { get; private set; }
-        public string NumeroEndereco { get; set; }
-        public string ComplementoEndereco { get; private set; }
+        public Logradouro? Logradouro { get; private set; }
+        public Bairro? Bairro { get; private set; }
+        public string? NumeroEndereco { get; set; }
+        public string? ComplementoEndereco { get; private set; }
 
         public Situacao  SituacaoEndereco { get; private set; }
 

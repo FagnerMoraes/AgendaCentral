@@ -29,12 +29,10 @@ namespace AgendaCentral.Data.EFCore.Context
     }
 
 
-        public DbSet<Pessoa> Pessoas { get; set; }
-        public DbSet<EnderecoEstruturado> EnderecosEstruturados { get; set; }
-        public DbSet<Logradouro> Logradouros { get; set; }
-        public DbSet<Bairro> Bairros { get; set; }
-
-        //public DbSet<EnderecoEstruturado> EnderecosEstruturados { get; set; }
+        public DbSet<Pessoa> Pessoas { get; set; } = null!;
+        public DbSet<EnderecoEstruturado> EnderecosEstruturados { get; set; } = null!;
+        public DbSet<Logradouro> Logradouros { get; set; } = null!;
+        public DbSet<Bairro> Bairros { get; set; } = null!;
 
     }
 }

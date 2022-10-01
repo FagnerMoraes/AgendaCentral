@@ -11,7 +11,7 @@ namespace AgendaCentral.Domain.Entities
         
 
         public int BairroId { get; private set; }
-        public string BairroNome { get; private set; }
+        public string? BairroNome { get; private set; }
         public Situacao SituacaoBairro { get; private set; }
 
 
